@@ -1,0 +1,1240 @@
+====================================================================================================
+GUIA PRÁTICO DE REPLICAÇÃO VOCAL - O QUE FAZER PARA IMITAR ESTA VOZ
+====================================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ 1. ALTURA DA VOZ (PITCH/TOM) - Qual nota cantar                                                     │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+📊 DADOS TÉCNICOS:
+   • F0 Médio: 391.0 Hz
+   • Range: 133.1 Hz a 1064.8 Hz
+
+🎯 O QUE FAZER:
+   ✓ Esta é uma VOZ AGUDA (Tenor/Soprano)
+   ✓ Cante na região de D4-F4 (Dó4 a Fá4)
+   ✓ Use MAIS voz de CABEÇA/MISTA
+   ✓ Leve o som 'para cima' e 'para frente'
+
+💡 COMO PRATICAR:
+   1. Use um afinador de celular (apps: Tuner, Pano Tuner)
+   2. Cante uma nota sustentada tentando manter 391 Hz
+   3. Ajuste até o afinador mostrar a frequência correta
+
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ 2. VIBRATO - A 'tremidinha' na voz                                                               │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+📊 DADOS TÉCNICOS:
+   • Presente: SIM
+   • Taxa: 3.0 Hz (oscilações por segundo)
+   • Extensão: 251.0 cents
+
+🎯 O QUE FAZER:
+   ✓ Vibrato LENTO: ondulações lentas e amplas
+   ✓ Faça cerca de 3 oscilações por segundo
+   ✓ Vibrato INTENSO: variação grande e expressiva
+
+💡 COMO PRATICAR:
+   1. Cante uma nota longa e sustentada
+   2. Faça pequenas oscilações no tom, 3 vezes por segundo
+   3. Use o diafragma: empurre levemente a barriga para dentro/fora no ritmo
+   4. OU relaxe a garganta e deixe oscilar naturalmente
+
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ 3. FORMANTES - Como moldar a 'COR' da voz (timbre único)                                          │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+📊 DADOS TÉCNICOS:
+   • F1: 690 Hz
+   • F2: 1974 Hz
+   • F3: 2939 Hz
+   • F4: 4042 Hz
+   • F5: 4764 Hz
+
+🎯 O QUE FAZER:
+   F1 (690 Hz) - ABERTURA DA BOCA:
+      ✓ Boca MODERADAMENTE aberta
+      ✓ Abertura natural, confortável
+
+   F2 (1974 Hz) - POSIÇÃO DA LÍNGUA:
+      ✓ Língua em posição NEUTRA/MÉDIA
+      ✓ Som equilibrado
+
+   F3-F5 - RESSONÂNCIA GERAL:
+      ✓ Som BRILHANTE/CLARO
+      ✓ Mais ressonância na MÁSCARA FACIAL
+      ✓ Direcione o som 'para frente' e 'para cima'
+
+💡 COMO PRATICAR:
+   1. Grave sua voz e compare com a original
+   2. Experimente diferentes posições de língua
+   3. Mude a abertura da boca
+   4. Use um espelho para observar
+
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ 4. BREATHINESS - Quanto AR passa pela voz                                                        │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+📊 DADOS TÉCNICOS:
+   • Nível: ALTO
+   • Ratio: 1.180
+
+🎯 O QUE FAZER:
+   ✓ VOZ COM MUITO AR (tipo Billie Eilish, Norah Jones)
+   ✓ Deixe as cordas vocais MENOS fechadas
+   ✓ Permita que MAIS ar escape enquanto canta
+   ✓ Som 'sussurrado', íntimo
+
+💡 COMO FAZER:
+   1. Não force o fechamento da garganta
+   2. Cante como se estivesse sussurrando
+   3. Ouça o 'shhh' do ar junto com a nota
+
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ 5. BRILHO - Som claro/escuro                                                                     │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+📊 DADOS TÉCNICOS:
+   • Nível: BRILHANTE
+   • Centróide: 3911 Hz
+
+🎯 O QUE FAZER:
+   ✓ VOZ CLARA/BRILHANTE (muita energia nos agudos)
+   ✓ Direcione o som para a MÁSCARA FACIAL
+
+💡 COMO FAZER:
+   1. Imagine o som saindo pelo nariz/olhos
+   2. Sinta vibração na face (maçãs do rosto)
+   3. Som 'apontado', projetado
+
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ 6. TENSÃO VOCAL - Voz apertada ou relaxada                                                       │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+📊 DADOS TÉCNICOS:
+   • Nível: BAIXA
+   • Ratio: 0.132
+
+🎯 O QUE FAZER:
+   ✓ VOZ RELAXADA/ABERTA
+   ✓ Garganta BEM aberta
+   ✓ Som 'solto', natural
+
+💡 COMO FAZER:
+   1. Relaxe TODA a garganta
+   2. Como um bocejo: garganta aberta
+   3. Som 'fácil', fluido
+
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ 7. ATAQUE - Como começar cada nota                                                              │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+📊 DADOS TÉCNICOS:
+   • Attack Time: 13.2005 segundos
+
+🎯 O QUE FAZER:
+   ✓ ATAQUE SUAVE/LENTO
+   ✓ Notas começam GRADUALMENTE
+
+💡 COMO FAZER:
+   1. Comece a nota SUAVEMENTE
+   2. Vá CRESCENDO aos poucos
+   3. Como uma 'fade in' na voz
+
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ 8. DINÂMICA - Variações de volume (forte/fraco)                                                  │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+📊 DADOS TÉCNICOS:
+   • Range Dinâmico: 80.0 dB
+
+🎯 O QUE FAZER:
+   ✓ MUITA VARIAÇÃO de volume
+   ✓ Cante partes MUITO FORTES e partes MUITO FRACAS
+
+💡 COMO FAZER:
+   1. Identifique onde a pessoa canta FORTE
+   2. Identifique onde canta FRACO
+   3. Exagere o contraste
+
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ 9. PORTAMENTOS - Deslizes entre notas                                                            │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+📊 DADOS TÉCNICOS:
+   • Portamentos: 312
+
+🎯 O QUE FAZER:
+   ✓ MUITOS DESLIZES (estilo melismático)
+   ✓ Escorregue/deslize entre QUASE TODAS as notas
+
+💡 COMO FAZER:
+   1. NÃO pule direto de uma nota para outra
+   2. DESLIZE suavemente
+   3. Como uma sirene: uuuuuuuuuu
+
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ 10. QUALIDADE GERAL DA VOZ                                                                       │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+📊 DADOS TÉCNICOS:
+   • HNR: 18.1 dB
+
+🎯 RESULTADO:
+   ✓ Voz muito LIMPA e CLARA
+   ✓ Pouco ruído, som cristalino
+
+====================================================================================================
+
+
+====================================================================================================
+ANÁLISE TÉCNICA DETALHADA POR SEGMENTO
+====================================================================================================
+Segmentação: 3.0s por segmento
+Total de segmentos: 69
+====================================================================================================
+
+
+[12.02s - 14.66s] There ain't no
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 290.1 Hz (AGUDO) | Range: 65.4-357.4 Hz
+  2️⃣ VIBRATO: 3.4 Hz (LENTO), 368.4 cents (intenso)
+  3️⃣ FORMANTES: F1=663Hz (boca MÉDIA, abertura natural) | F2=1581Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.615) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (4679 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.078) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.184s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -36.0 dB (FRACO) | Range: 80.0 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 1 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 19.2 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (347 Hz) - transição entre registros
+
+
+[14.66s - 17.29s] gold in this
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 318.6 Hz (AGUDO) | Range: 246.9-374.3 Hz
+  2️⃣ VIBRATO: 3.4 Hz (LENTO), 136.8 cents (intenso)
+  3️⃣ FORMANTES: F1=481Hz (boca FECHADA, mandíbula relaxada) | F2=1597Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.636) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3503 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.062) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.196s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -15.8 dB (FORTE) | Range: 52.5 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 4 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 20.1 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (293 Hz) - transição entre registros
+
+
+[17.29s - 19.93s] river That I've
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 296.9 Hz (AGUDO) | Range: 260.1-363.6 Hz
+  2️⃣ VIBRATO: 6.0 Hz (RÁPIDO), 144.8 cents (intenso)
+  3️⃣ FORMANTES: F1=496Hz (boca FECHADA, mandíbula relaxada) | F2=1754Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.793) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3463 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.081) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 0.778s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -22.7 dB (MÉDIO) | Range: 56.0 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 3 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 17.7 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (344 Hz) - transição entre registros
+
+
+[19.93s - 22.56s] been washing my
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 328.4 Hz (AGUDO) | Range: 249.8-355.3 Hz
+  2️⃣ VIBRATO: 3.4 Hz (LENTO), 93.7 cents (moderado)
+  3️⃣ FORMANTES: F1=626Hz (boca MÉDIA, abertura natural) | F2=1701Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.825) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3381 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.110) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 0.035s (DURO/RÁPIDO) → comece a nota COM FORÇA imediata
+  8️⃣ DINÂMICA: -5.1 dB (MUITO FORTE) | Range: 25.0 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 0 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 19.4 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (329 Hz) - transição entre registros
+
+
+[22.56s - 25.20s] hands in forever
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 330.2 Hz (AGUDO) | Range: 258.6-361.5 Hz
+  2️⃣ VIBRATO: 3.8 Hz (LENTO), 94.1 cents (moderado)
+  3️⃣ FORMANTES: F1=588Hz (boca MÉDIA, abertura natural) | F2=1804Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.781) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3799 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.094) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 0.151s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -5.7 dB (MUITO FORTE) | Range: 22.4 dB (volume constante)
+  9️⃣ PORTAMENTOS: 3 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 18.9 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (349 Hz) - transição entre registros
+
+
+[25.20s - 28.13s] I know there
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 331.4 Hz (AGUDO) | Range: 257.1-367.9 Hz
+  2️⃣ VIBRATO: 3.9 Hz (LENTO), 101.7 cents (intenso)
+  3️⃣ FORMANTES: F1=618Hz (boca MÉDIA, abertura natural) | F2=1794Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.073) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (2820 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.134) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.533s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -20.3 dB (MÉDIO) | Range: 49.4 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 6 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 18.0 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (351 Hz) - transição entre registros
+
+
+[28.13s - 31.06s] is hope in
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 383.1 Hz (AGUDO) | Range: 249.8-463.5 Hz
+  2️⃣ VIBRATO: 3.2 Hz (LENTO), 204.6 cents (intenso)
+  3️⃣ FORMANTES: F1=480Hz (boca FECHADA, mandíbula relaxada) | F2=1424Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.587) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3047 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.085) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.985s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -9.8 dB (MUITO FORTE) | Range: 34.8 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 5 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 20.8 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (292 Hz) - transição entre registros
+
+
+[31.06s - 33.98s] these waters But
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 295.5 Hz (AGUDO) | Range: 254.2-365.7 Hz
+  2️⃣ VIBRATO: 7.2 Hz (RÁPIDO), 137.0 cents (intenso)
+  3️⃣ FORMANTES: F1=637Hz (boca MÉDIA, abertura natural) | F2=1706Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.860) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3734 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.077) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 2.426s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -18.4 dB (FORTE) | Range: 51.5 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 3 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 14.0 dB (voz EQUILIBRADA) → clareza natural
+  ➕ RESSONÂNCIA: MISTA (263 Hz) - transição entre registros
+
+
+[33.98s - 36.91s] I can't bring
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 339.5 Hz (AGUDO) | Range: 304.0-471.6 Hz
+  2️⃣ VIBRATO: 4.1 Hz (MÉDIO), 66.6 cents (moderado)
+  3️⃣ FORMANTES: F1=580Hz (boca MÉDIA, abertura natural) | F2=1729Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.461) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (4092 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.092) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 2.183s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -5.7 dB (MUITO FORTE) | Range: 27.6 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 0 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 17.0 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (328 Hz) - transição entre registros
+
+
+[36.91s - 39.84s] myself to swim when I am drowning
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 335.6 Hz (AGUDO) | Range: 287.0-359.5 Hz
+  2️⃣ VIBRATO: 6.5 Hz (RÁPIDO), 36.4 cents (sutil)
+  3️⃣ FORMANTES: F1=643Hz (boca MÉDIA, abertura natural) | F2=1842Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.702) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3068 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.137) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 2.043s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -3.7 dB (MUITO FORTE) | Range: 13.2 dB (volume constante)
+  9️⃣ PORTAMENTOS: 1 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 21.6 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (332 Hz) - transição entre registros
+
+
+[39.84s - 42.43s] In this
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 390.5 Hz (AGUDO) | Range: 314.7-455.5 Hz
+  2️⃣ VIBRATO: 5.7 Hz (MÉDIO), 122.9 cents (intenso)
+  3️⃣ FORMANTES: F1=723Hz (boca MÉDIA, abertura natural) | F2=1899Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.456) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (4050 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.142) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 0.836s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -7.7 dB (MUITO FORTE) | Range: 24.2 dB (volume constante)
+  9️⃣ PORTAMENTOS: 4 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 16.2 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (346 Hz) - transição entre registros
+
+
+[42.43s - 45.02s] silence baby,
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 419.3 Hz (MUITO AGUDO) | Range: 376.5-474.3 Hz
+  2️⃣ VIBRATO: 4.0 Hz (LENTO), 79.5 cents (moderado)
+  3️⃣ FORMANTES: F1=642Hz (boca MÉDIA, abertura natural) | F2=2134Hz (língua FRENTE, som brilhante)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.821) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3517 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.194) → tensão equilibrada
+  7️⃣ ATAQUE: 1.173s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -7.4 dB (MUITO FORTE) | Range: 27.8 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 4 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 20.1 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (392 Hz) - transição entre registros
+
+
+[45.02s - 47.62s] let me
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 422.9 Hz (MUITO AGUDO) | Range: 337.3-491.0 Hz
+  2️⃣ VIBRATO: 3.9 Hz (LENTO), 137.2 cents (intenso)
+  3️⃣ FORMANTES: F1=559Hz (boca MÉDIA, abertura natural) | F2=1894Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.900) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3461 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.120) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.962s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -8.3 dB (MUITO FORTE) | Range: 33.3 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 3 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 21.9 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (471 Hz) - transição entre registros
+
+
+[47.62s - 50.21s] in Go
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 477.3 Hz (MUITO AGUDO) | Range: 320.2-526.3 Hz
+  2️⃣ VIBRATO: 5.4 Hz (MÉDIO), 134.0 cents (intenso)
+  3️⃣ FORMANTES: F1=521Hz (boca MÉDIA, abertura natural) | F2=2166Hz (língua FRENTE, som brilhante)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.970) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3858 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.142) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.544s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -1.4 dB (MUITO FORTE) | Range: 6.8 dB (volume constante)
+  9️⃣ PORTAMENTOS: 4 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 22.0 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (524 Hz) - transição entre registros
+
+
+[50.21s - 52.80s] easy on me baby
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 422.3 Hz (MUITO AGUDO) | Range: 324.0-629.5 Hz
+  2️⃣ VIBRATO: 3.1 Hz (LENTO), 119.3 cents (intenso)
+  3️⃣ FORMANTES: F1=699Hz (boca MÉDIA, abertura natural) | F2=2016Hz (língua FRENTE, som brilhante)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.315) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3856 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.188) → tensão equilibrada
+  7️⃣ ATAQUE: 1.451s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -5.2 dB (MUITO FORTE) | Range: 22.1 dB (volume constante)
+  9️⃣ PORTAMENTOS: 6 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 15.6 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (439 Hz) - transição entre registros
+
+
+[53.84s - 56.45s] I was still
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 358.5 Hz (AGUDO) | Range: 272.4-447.7 Hz
+  2️⃣ VIBRATO: 3.3 Hz (LENTO), 103.5 cents (intenso)
+  3️⃣ FORMANTES: F1=870Hz (boca ABERTA, mandíbula baixa) | F2=1791Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 2.093) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (4000 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.122) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 0.104s (MODERADO) → comece firme mas não abrupto
+  8️⃣ DINÂMICA: -8.4 dB (MUITO FORTE) | Range: 48.6 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 3 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 13.8 dB (voz EQUILIBRADA) → clareza natural
+  ➕ RESSONÂNCIA: MISTA (389 Hz) - transição entre registros
+
+
+[56.45s - 59.06s] a child Didn't
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 359.7 Hz (AGUDO) | Range: 260.1-437.5 Hz
+  2️⃣ VIBRATO: 3.3 Hz (LENTO), 91.5 cents (moderado)
+  3️⃣ FORMANTES: F1=813Hz (boca ABERTA, mandíbula baixa) | F2=1948Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 2.488) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3878 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.203) → tensão equilibrada
+  7️⃣ ATAQUE: 0.894s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -15.2 dB (FORTE) | Range: 45.2 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 4 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 14.2 dB (voz EQUILIBRADA) → clareza natural
+  ➕ RESSONÂNCIA: MISTA (349 Hz) - transição entre registros
+
+
+[59.06s - 61.66s] get the chance
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 293.0 Hz (AGUDO) | Range: 130.8-505.4 Hz
+  2️⃣ VIBRATO: 3.6 Hz (LENTO), 355.3 cents (intenso)
+  3️⃣ FORMANTES: F1=531Hz (boca MÉDIA, abertura natural) | F2=2016Hz (língua FRENTE, som brilhante)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.657) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (4224 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.110) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 2.194s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -12.9 dB (FORTE) | Range: 36.4 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 3 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 15.2 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (262 Hz) - transição entre registros
+
+
+[61.66s - 64.27s] to feel the
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 473.6 Hz (MUITO AGUDO) | Range: 394.3-520.2 Hz
+  2️⃣ VIBRATO: 3.8 Hz (LENTO), 99.8 cents (moderado)
+  3️⃣ FORMANTES: F1=482Hz (boca FECHADA, mandíbula relaxada) | F2=2205Hz (língua FRENTE, som brilhante)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.800) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3621 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.172) → tensão equilibrada
+  7️⃣ ATAQUE: 1.207s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -2.5 dB (MUITO FORTE) | Range: 5.8 dB (volume constante)
+  9️⃣ PORTAMENTOS: 4 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 22.5 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (520 Hz) - transição entre registros
+
+
+[64.27s - 66.88s] world around me
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 415.5 Hz (MUITO AGUDO) | Range: 380.8-570.6 Hz
+  2️⃣ VIBRATO: 3.8 Hz (LENTO), 102.0 cents (intenso)
+  3️⃣ FORMANTES: F1=866Hz (boca ABERTA, mandíbula baixa) | F2=1612Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.572) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3777 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.131) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 0.279s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -8.7 dB (MUITO FORTE) | Range: 30.4 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 8 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 15.4 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (436 Hz) - transição entre registros
+
+
+[66.88s - 69.88s] I had no time
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 355.2 Hz (AGUDO) | Range: 292.0-445.1 Hz
+  2️⃣ VIBRATO: 3.1 Hz (LENTO), 85.4 cents (moderado)
+  3️⃣ FORMANTES: F1=647Hz (boca MÉDIA, abertura natural) | F2=1764Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.503) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (4068 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.109) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 0.151s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -7.9 dB (MUITO FORTE) | Range: 33.9 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 4 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 16.1 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (359 Hz) - transição entre registros
+
+
+[69.88s - 72.88s] to choose what I
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 364.1 Hz (AGUDO) | Range: 335.4-445.1 Hz
+  2️⃣ VIBRATO: 3.3 Hz (LENTO), 77.2 cents (moderado)
+  3️⃣ FORMANTES: F1=638Hz (boca MÉDIA, abertura natural) | F2=1712Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.239) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (4065 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.092) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 0.755s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -11.2 dB (FORTE) | Range: 43.1 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 7 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 17.5 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (348 Hz) - transição entre registros
+
+
+[72.88s - 75.88s] chose to do So
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 400.7 Hz (MUITO AGUDO) | Range: 339.3-541.7 Hz
+  2️⃣ VIBRATO: 4.8 Hz (MÉDIO), 155.3 cents (intenso)
+  3️⃣ FORMANTES: F1=509Hz (boca MÉDIA, abertura natural) | F2=1743Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.023) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3734 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.067) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.602s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -10.7 dB (FORTE) | Range: 37.0 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 6 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 18.3 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (348 Hz) - transição entre registros
+
+
+[75.88s - 78.88s] go easy on me
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 371.8 Hz (AGUDO) | Range: 320.2-442.5 Hz
+  2️⃣ VIBRATO: 4.0 Hz (LENTO), 100.1 cents (intenso)
+  3️⃣ FORMANTES: F1=469Hz (boca FECHADA, mandíbula relaxada) | F2=1815Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.715) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3087 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.086) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.324s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -15.4 dB (FORTE) | Range: 37.0 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 7 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 20.0 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (346 Hz) - transição entre registros
+
+
+[86.38s - 89.14s] There ain't no
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 310.8 Hz (AGUDO) | Range: 151.1-359.5 Hz
+  2️⃣ VIBRATO: 4.9 Hz (MÉDIO), 205.3 cents (intenso)
+  3️⃣ FORMANTES: F1=693Hz (boca MÉDIA, abertura natural) | F2=1613Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.683) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (4326 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.135) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.207s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -31.1 dB (FRACO) | Range: 74.8 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 1 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 19.8 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (348 Hz) - transição entre registros
+
+
+[89.14s - 91.89s] room for things
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 348.2 Hz (AGUDO) | Range: 223.8-440.0 Hz
+  2️⃣ VIBRATO: 3.0 Hz (LENTO), 198.2 cents (intenso)
+  3️⃣ FORMANTES: F1=489Hz (boca FECHADA, mandíbula relaxada) | F2=1327Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.706) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3439 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.053) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.683s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -5.5 dB (MUITO FORTE) | Range: 21.0 dB (volume constante)
+  9️⃣ PORTAMENTOS: 2 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 18.8 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (344 Hz) - transição entre registros
+
+
+[91.89s - 94.65s] to change When
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 290.3 Hz (AGUDO) | Range: 238.5-367.9 Hz
+  2️⃣ VIBRATO: 7.0 Hz (RÁPIDO), 144.0 cents (intenso)
+  3️⃣ FORMANTES: F1=733Hz (boca MÉDIA, abertura natural) | F2=1937Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.090) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3803 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.127) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 0.476s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -15.0 dB (FORTE) | Range: 47.8 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 2 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 15.8 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (262 Hz) - transição entre registros
+
+
+[94.65s - 97.40s] we are both
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 332.4 Hz (AGUDO) | Range: 263.1-357.4 Hz
+  2️⃣ VIBRATO: 4.8 Hz (MÉDIO), 64.3 cents (moderado)
+  3️⃣ FORMANTES: F1=567Hz (boca MÉDIA, abertura natural) | F2=1710Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.034) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3400 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.085) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.800s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -4.9 dB (MUITO FORTE) | Range: 23.8 dB (volume constante)
+  9️⃣ PORTAMENTOS: 2 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 18.0 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (327 Hz) - transição entre registros
+
+
+[97.40s - 100.16s] so deeply stuck in our ways
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 318.1 Hz (AGUDO) | Range: 257.1-361.5 Hz
+  2️⃣ VIBRATO: 3.1 Hz (LENTO), 114.0 cents (intenso)
+  3️⃣ FORMANTES: F1=609Hz (boca MÉDIA, abertura natural) | F2=1875Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.655) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (4201 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.085) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 0.348s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -6.4 dB (MUITO FORTE) | Range: 33.2 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 1 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 15.3 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (294 Hz) - transição entre registros
+
+
+[100.16s - 102.80s] You can't deny
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 318.5 Hz (AGUDO) | Range: 221.3-383.0 Hz
+  2️⃣ VIBRATO: 5.5 Hz (MÉDIO), 138.6 cents (intenso)
+  3️⃣ FORMANTES: F1=561Hz (boca MÉDIA, abertura natural) | F2=1845Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.037) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3852 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.148) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.718s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -16.4 dB (FORTE) | Range: 46.0 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 1 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 18.2 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (346 Hz) - transição entre registros
+
+
+[102.80s - 105.44s] how hard I've
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 421.0 Hz (MUITO AGUDO) | Range: 255.7-895.4 Hz
+  2️⃣ VIBRATO: 3.0 Hz (LENTO), 412.9 cents (intenso)
+  3️⃣ FORMANTES: F1=916Hz (boca ABERTA, mandíbula baixa) | F2=1763Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.225) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3574 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.155) → tensão equilibrada
+  7️⃣ ATAQUE: 1.579s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -6.8 dB (MUITO FORTE) | Range: 29.2 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 6 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 16.4 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (873 Hz) - transição entre registros
+
+
+[105.44s - 108.08s] tried I changed
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 505.2 Hz (MUITO AGUDO) | Range: 339.3-987.8 Hz
+  2️⃣ VIBRATO: 3.4 Hz (LENTO), 497.9 cents (intenso)
+  3️⃣ FORMANTES: F1=922Hz (boca ABERTA, mandíbula baixa) | F2=1830Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.590) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3700 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.156) → tensão equilibrada
+  7️⃣ ATAQUE: 2.589s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -8.3 dB (MUITO FORTE) | Range: 26.8 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 2 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 16.8 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (878 Hz) - transição entre registros
+
+
+[108.08s - 110.72s] you, I was
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 339.7 Hz (AGUDO) | Range: 307.6-376.5 Hz
+  2️⃣ VIBRATO: 4.7 Hz (MÉDIO), 39.6 cents (sutil)
+  3️⃣ FORMANTES: F1=677Hz (boca MÉDIA, abertura natural) | F2=1738Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.799) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (4367 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.106) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.277s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -5.3 dB (MUITO FORTE) | Range: 23.6 dB (volume constante)
+  9️⃣ PORTAMENTOS: 3 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 15.5 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (348 Hz) - transição entre registros
+
+
+[110.72s - 113.36s] too put you both first
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 388.5 Hz (AGUDO) | Range: 288.6-468.9 Hz
+  2️⃣ VIBRATO: 3.3 Hz (LENTO), 137.3 cents (intenso)
+  3️⃣ FORMANTES: F1=715Hz (boca MÉDIA, abertura natural) | F2=1656Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 2.080) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (4566 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.110) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.358s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -6.3 dB (MUITO FORTE) | Range: 23.1 dB (volume constante)
+  9️⃣ PORTAMENTOS: 2 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 14.5 dB (voz EQUILIBRADA) → clareza natural
+  ➕ RESSONÂNCIA: MISTA (330 Hz) - transição entre registros
+
+
+[113.36s - 116.03s] But now
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 422.6 Hz (MUITO AGUDO) | Range: 372.1-468.9 Hz
+  2️⃣ VIBRATO: 3.7 Hz (LENTO), 82.3 cents (moderado)
+  3️⃣ FORMANTES: F1=988Hz (boca ABERTA, mandíbula baixa) | F2=1859Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.994) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3971 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.173) → tensão equilibrada
+  7️⃣ ATAQUE: 1.683s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -5.3 dB (MUITO FORTE) | Range: 22.4 dB (volume constante)
+  9️⃣ PORTAMENTOS: 4 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 17.7 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: FALSETE (880 Hz) - leve e aéreo
+
+
+[116.03s - 118.69s] I give
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 426.6 Hz (MUITO AGUDO) | Range: 343.2-517.2 Hz
+  2️⃣ VIBRATO: 3.5 Hz (LENTO), 133.9 cents (intenso)
+  3️⃣ FORMANTES: F1=886Hz (boca ABERTA, mandíbula baixa) | F2=1700Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.166) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3541 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.134) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.962s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -6.8 dB (MUITO FORTE) | Range: 26.5 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 2 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 20.0 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (945 Hz) - transição entre registros
+
+
+[118.69s - 121.36s] up, go
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 475.9 Hz (MUITO AGUDO) | Range: 345.2-526.3 Hz
+  2️⃣ VIBRATO: 3.7 Hz (LENTO), 121.2 cents (intenso)
+  3️⃣ FORMANTES: F1=495Hz (boca FECHADA, mandíbula relaxada) | F2=2253Hz (língua FRENTE, som brilhante)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.834) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3593 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.187) → tensão equilibrada
+  7️⃣ ATAQUE: 0.104s (MODERADO) → comece firme mas não abrupto
+  8️⃣ DINÂMICA: -1.8 dB (MUITO FORTE) | Range: 7.3 dB (volume constante)
+  9️⃣ PORTAMENTOS: 4 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 22.5 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (524 Hz) - transição entre registros
+
+
+[121.36s - 124.03s] easy on
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 425.6 Hz (MUITO AGUDO) | Range: 383.0-629.5 Hz
+  2️⃣ VIBRATO: 3.0 Hz (LENTO), 109.0 cents (intenso)
+  3️⃣ FORMANTES: F1=708Hz (boca MÉDIA, abertura natural) | F2=2026Hz (língua FRENTE, som brilhante)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.486) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3871 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.192) → tensão equilibrada
+  7️⃣ ATAQUE: 1.289s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -7.7 dB (MUITO FORTE) | Range: 34.7 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 6 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 14.8 dB (voz EQUILIBRADA) → clareza natural
+  ➕ RESSONÂNCIA: MISTA (440 Hz) - transição entre registros
+
+
+[124.03s - 126.69s] me baby
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 391.0 Hz (AGUDO) | Range: 305.8-491.0 Hz
+  2️⃣ VIBRATO: 4.8 Hz (MÉDIO), 148.0 cents (intenso)
+  3️⃣ FORMANTES: F1=837Hz (boca ABERTA, mandíbula baixa) | F2=1874Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 2.691) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (4471 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.124) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 0.859s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -13.8 dB (FORTE) | Range: 38.0 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 4 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 13.2 dB (voz EQUILIBRADA) → clareza natural
+  ➕ RESSONÂNCIA: MISTA (393 Hz) - transição entre registros
+
+
+[126.69s - 129.36s] I was
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 319.3 Hz (AGUDO) | Range: 136.2-440.0 Hz
+  2️⃣ VIBRATO: 6.3 Hz (RÁPIDO), 348.4 cents (intenso)
+  3️⃣ FORMANTES: F1=755Hz (boca MÉDIA, abertura natural) | F2=1895Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.493) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3584 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.193) → tensão equilibrada
+  7️⃣ ATAQUE: 1.672s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -14.9 dB (FORTE) | Range: 45.7 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 3 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 12.7 dB (voz EQUILIBRADA) → clareza natural
+  ➕ RESSONÂNCIA: MISTA (351 Hz) - transição entre registros
+
+
+[129.36s - 132.03s] still a
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 295.3 Hz (AGUDO) | Range: 196.0-363.6 Hz
+  2️⃣ VIBRATO: 6.5 Hz (RÁPIDO), 150.6 cents (intenso)
+  3️⃣ FORMANTES: F1=493Hz (boca FECHADA, mandíbula relaxada) | F2=2024Hz (língua FRENTE, som brilhante)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.487) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3944 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.161) → tensão equilibrada
+  7️⃣ ATAQUE: 0.743s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -9.9 dB (MUITO FORTE) | Range: 35.0 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 4 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 18.2 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (259 Hz) - transição entre registros
+
+
+[132.03s - 134.69s] child, didn't
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 482.1 Hz (MUITO AGUDO) | Range: 282.0-526.3 Hz
+  2️⃣ VIBRATO: 3.6 Hz (LENTO), 126.5 cents (intenso)
+  3️⃣ FORMANTES: F1=556Hz (boca MÉDIA, abertura natural) | F2=2356Hz (língua FRENTE, som brilhante)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.975) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (4096 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.174) → tensão equilibrada
+  7️⃣ ATAQUE: 0.197s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -4.6 dB (MUITO FORTE) | Range: 40.1 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 5 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 22.9 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (524 Hz) - transição entre registros
+
+
+[134.69s - 137.36s] get the chance to feel the world around me
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 419.1 Hz (MUITO AGUDO) | Range: 383.0-577.2 Hz
+  2️⃣ VIBRATO: 5.6 Hz (MÉDIO), 100.8 cents (intenso)
+  3️⃣ FORMANTES: F1=796Hz (boca MÉDIA, abertura natural) | F2=1711Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.411) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (4082 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.126) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 0.824s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -5.9 dB (MUITO FORTE) | Range: 34.1 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 6 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 17.7 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (441 Hz) - transição entre registros
+
+
+[137.76s - 140.57s] I had
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 366.3 Hz (AGUDO) | Range: 318.4-460.8 Hz
+  2️⃣ VIBRATO: 3.4 Hz (LENTO), 87.4 cents (moderado)
+  3️⃣ FORMANTES: F1=738Hz (boca MÉDIA, abertura natural) | F2=1739Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.507) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3793 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.111) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.556s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -14.2 dB (FORTE) | Range: 56.2 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 6 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 17.2 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (358 Hz) - transição entre registros
+
+
+[140.57s - 143.38s] no time
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 375.5 Hz (AGUDO) | Range: 341.3-532.4 Hz
+  2️⃣ VIBRATO: 3.0 Hz (LENTO), 130.1 cents (intenso)
+  3️⃣ FORMANTES: F1=713Hz (boca MÉDIA, abertura natural) | F2=1826Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.623) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (4643 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.105) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 2.392s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -13.9 dB (FORTE) | Range: 51.7 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 2 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 14.7 dB (voz EQUILIBRADA) → clareza natural
+  ➕ RESSONÂNCIA: MISTA (349 Hz) - transição entre registros
+
+
+[143.38s - 146.19s] to choose
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 336.6 Hz (AGUDO) | Range: 196.0-455.5 Hz
+  2️⃣ VIBRATO: 3.4 Hz (LENTO), 224.5 cents (intenso)
+  3️⃣ FORMANTES: F1=453Hz (boca FECHADA, mandíbula relaxada) | F2=1469Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.589) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (2836 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.053) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.602s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -15.5 dB (FORTE) | Range: 44.6 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 5 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 20.0 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (358 Hz) - transição entre registros
+
+
+[146.19s - 148.99s] what I
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 461.4 Hz (MUITO AGUDO) | Range: 442.5-471.6 Hz
+  2️⃣ VIBRATO: 3.2 Hz (LENTO), 21.0 cents (sutil)
+  3️⃣ FORMANTES: F1=465Hz (boca FECHADA, mandíbula relaxada) | F2=2365Hz (língua FRENTE, som brilhante)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.527) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3344 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.120) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 2.241s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -2.0 dB (MUITO FORTE) | Range: 6.2 dB (volume constante)
+  9️⃣ PORTAMENTOS: 0 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 24.3 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (470 Hz) - transição entre registros
+
+
+[148.99s - 151.80s] chose to
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 430.7 Hz (MUITO AGUDO) | Range: 345.2-477.1 Hz
+  2️⃣ VIBRATO: 3.2 Hz (LENTO), 131.8 cents (intenso)
+  3️⃣ FORMANTES: F1=436Hz (boca FECHADA, mandíbula relaxada) | F2=2356Hz (língua FRENTE, som brilhante)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.550) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3447 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.114) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 2.763s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -4.5 dB (MUITO FORTE) | Range: 33.3 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 2 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 24.3 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (471 Hz) - transição entre registros
+
+
+[151.80s - 154.61s] do So
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 376.6 Hz (AGUDO) | Range: 239.9-440.0 Hz
+  2️⃣ VIBRATO: 3.2 Hz (LENTO), 95.6 cents (moderado)
+  3️⃣ FORMANTES: F1=395Hz (boca FECHADA, mandíbula relaxada) | F2=1850Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.909) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (2701 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.121) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 0.290s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -21.5 dB (MÉDIO) | Range: 56.8 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 8 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 18.1 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (343 Hz) - transição entre registros
+
+
+[154.61s - 157.42s] go easy on me
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 362.5 Hz (AGUDO) | Range: 300.5-460.8 Hz
+  2️⃣ VIBRATO: 5.9 Hz (MÉDIO), 78.7 cents (moderado)
+  3️⃣ FORMANTES: F1=518Hz (boca MÉDIA, abertura natural) | F2=2113Hz (língua FRENTE, som brilhante)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.599) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3318 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.128) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 0.348s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -9.7 dB (MUITO FORTE) | Range: 58.2 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 3 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 21.7 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (348 Hz) - transição entre registros
+
+
+[157.42s - 160.26s] I had good
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 433.4 Hz (MUITO AGUDO) | Range: 329.6-604.5 Hz
+  2️⃣ VIBRATO: 3.9 Hz (LENTO), 269.9 cents (intenso)
+  3️⃣ FORMANTES: F1=843Hz (boca ABERTA, mandíbula baixa) | F2=1821Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 4.082) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3794 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.240) → tensão equilibrada
+  7️⃣ ATAQUE: 1.962s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -30.6 dB (FRACO) | Range: 69.9 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 6 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 16.2 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (1041 Hz) - transição entre registros
+
+
+[160.26s - 163.09s] intentions and the
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 537.1 Hz (MUITO AGUDO) | Range: 392.0-1058.7 Hz
+  2️⃣ VIBRATO: 3.0 Hz (LENTO), 327.1 cents (intenso)
+  3️⃣ FORMANTES: F1=819Hz (boca ABERTA, mandíbula baixa) | F2=1884Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.456) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3656 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.170) → tensão equilibrada
+  7️⃣ ATAQUE: 0.604s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -8.2 dB (MUITO FORTE) | Range: 27.8 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 6 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 14.4 dB (voz EQUILIBRADA) → clareza natural
+  ➕ RESSONÂNCIA: MISTA (588 Hz) - transição entre registros
+
+
+[163.09s - 165.93s] highest hopes But
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 471.3 Hz (MUITO AGUDO) | Range: 339.3-587.3 Hz
+  2️⃣ VIBRATO: 4.0 Hz (LENTO), 178.0 cents (intenso)
+  3️⃣ FORMANTES: F1=945Hz (boca ABERTA, mandíbula baixa) | F2=1793Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.556) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3321 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.177) → tensão equilibrada
+  7️⃣ ATAQUE: 2.078s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -7.2 dB (MUITO FORTE) | Range: 27.6 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 6 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 14.6 dB (voz EQUILIBRADA) → clareza natural
+  ➕ RESSONÂNCIA: MISTA (1044 Hz) - transição entre registros
+
+
+[165.93s - 168.77s] I know right
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 406.1 Hz (MUITO AGUDO) | Range: 335.4-529.3 Hz
+  2️⃣ VIBRATO: 4.8 Hz (MÉDIO), 150.6 cents (intenso)
+  3️⃣ FORMANTES: F1=858Hz (boca ABERTA, mandíbula baixa) | F2=1691Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.326) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3458 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.137) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.683s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -6.5 dB (MUITO FORTE) | Range: 28.8 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 6 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 15.4 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (525 Hz) - transição entre registros
+
+
+[168.77s - 171.60s] now, that probably
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 352.1 Hz (AGUDO) | Range: 206.5-442.5 Hz
+  2️⃣ VIBRATO: 3.7 Hz (LENTO), 182.7 cents (intenso)
+  3️⃣ FORMANTES: F1=785Hz (boca MÉDIA, abertura natural) | F2=1840Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.178) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3395 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.156) → tensão equilibrada
+  7️⃣ ATAQUE: 1.393s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -10.4 dB (FORTE) | Range: 36.1 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 4 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 15.2 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (439 Hz) - transição entre registros
+
+
+[171.60s - 174.44s] doesn't even show
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 515.7 Hz (MUITO AGUDO) | Range: 396.6-590.7 Hz
+  2️⃣ VIBRATO: 5.8 Hz (MÉDIO), 82.8 cents (moderado)
+  3️⃣ FORMANTES: F1=925Hz (boca ABERTA, mandíbula baixa) | F2=1652Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.916) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3635 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.084) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 0.348s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -2.2 dB (MUITO FORTE) | Range: 19.3 dB (volume constante)
+  9️⃣ PORTAMENTOS: 8 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 18.3 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: FALSETE (1062 Hz) - leve e aéreo
+
+
+[174.44s - 177.30s] Go easy
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 466.5 Hz (MUITO AGUDO) | Range: 337.3-541.7 Hz
+  2️⃣ VIBRATO: 4.0 Hz (LENTO), 209.0 cents (intenso)
+  3️⃣ FORMANTES: F1=693Hz (boca MÉDIA, abertura natural) | F2=1686Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.894) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3087 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.137) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.010s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -10.9 dB (FORTE) | Range: 35.2 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 5 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 20.5 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (523 Hz) - transição entre registros
+
+
+[177.30s - 180.15s] on me
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 452.9 Hz (MUITO AGUDO) | Range: 387.5-583.9 Hz
+  2️⃣ VIBRATO: 7.1 Hz (RÁPIDO), 105.8 cents (intenso)
+  3️⃣ FORMANTES: F1=561Hz (boca MÉDIA, abertura natural) | F2=2105Hz (língua FRENTE, som brilhante)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.825) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3372 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.180) → tensão equilibrada
+  7️⃣ ATAQUE: 2.821s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -3.9 dB (MUITO FORTE) | Range: 20.9 dB (volume constante)
+  9️⃣ PORTAMENTOS: 7 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 18.8 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (470 Hz) - transição entre registros
+
+
+[180.15s - 183.01s] baby I
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 403.7 Hz (MUITO AGUDO) | Range: 341.3-466.2 Hz
+  2️⃣ VIBRATO: 3.3 Hz (LENTO), 105.0 cents (intenso)
+  3️⃣ FORMANTES: F1=723Hz (boca MÉDIA, abertura natural) | F2=2002Hz (língua FRENTE, som brilhante)
+  4️⃣ BREATHINESS: ALTO (ratio: 2.381) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (4278 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.199) → tensão equilibrada
+  7️⃣ ATAQUE: 2.032s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -13.2 dB (FORTE) | Range: 36.9 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 5 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 15.3 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (394 Hz) - transição entre registros
+
+
+[183.01s - 185.87s] was still
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 351.6 Hz (AGUDO) | Range: 260.1-440.0 Hz
+  2️⃣ VIBRATO: 3.7 Hz (LENTO), 112.4 cents (intenso)
+  3️⃣ FORMANTES: F1=899Hz (boca ABERTA, mandíbula baixa) | F2=1808Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 2.091) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3648 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.134) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 2.310s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -9.2 dB (MUITO FORTE) | Range: 29.3 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 4 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 14.0 dB (voz EQUILIBRADA) → clareza natural
+  ➕ RESSONÂNCIA: MISTA (1043 Hz) - transição entre registros
+
+
+[185.87s - 188.73s] a child,
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 330.8 Hz (AGUDO) | Range: 221.3-442.5 Hz
+  2️⃣ VIBRATO: 4.2 Hz (MÉDIO), 191.2 cents (intenso)
+  3️⃣ FORMANTES: F1=575Hz (boca MÉDIA, abertura natural) | F2=1951Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.417) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3686 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.162) → tensão equilibrada
+  7️⃣ ATAQUE: 0.383s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -5.4 dB (MUITO FORTE) | Range: 21.7 dB (volume constante)
+  9️⃣ PORTAMENTOS: 2 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 18.0 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (261 Hz) - transição entre registros
+
+
+[188.73s - 191.58s] didn't get
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 482.8 Hz (MUITO AGUDO) | Range: 341.3-698.5 Hz
+  2️⃣ VIBRATO: 3.0 Hz (LENTO), 248.2 cents (intenso)
+  3️⃣ FORMANTES: F1=515Hz (boca MÉDIA, abertura natural) | F2=2044Hz (língua FRENTE, som brilhante)
+  4️⃣ BREATHINESS: ALTO (ratio: 0.937) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3784 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.168) → tensão equilibrada
+  7️⃣ ATAQUE: 1.022s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -5.1 dB (MUITO FORTE) | Range: 25.5 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 4 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 18.2 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (522 Hz) - transição entre registros
+
+
+[191.58s - 194.44s] the chance to feel the world around me
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 528.3 Hz (MUITO AGUDO) | Range: 430.0-735.7 Hz
+  2️⃣ VIBRATO: 3.5 Hz (LENTO), 120.2 cents (intenso)
+  3️⃣ FORMANTES: F1=853Hz (boca ABERTA, mandíbula baixa) | F2=1706Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.195) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3045 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: MEDIA (ratio: 0.155) → tensão equilibrada
+  7️⃣ ATAQUE: 0.743s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -7.0 dB (MUITO FORTE) | Range: 30.9 dB (variação moderada)
+  9️⃣ PORTAMENTOS: 10 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 17.4 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (588 Hz) - transição entre registros
+
+
+[194.62s - 197.08s] I had no
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 418.1 Hz (MUITO AGUDO) | Range: 295.4-590.7 Hz
+  2️⃣ VIBRATO: 3.4 Hz (LENTO), 270.4 cents (intenso)
+  3️⃣ FORMANTES: F1=887Hz (boca ABERTA, mandíbula baixa) | F2=1725Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.996) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3730 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.123) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 0.871s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -16.3 dB (FORTE) | Range: 44.3 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 4 detectados (alguns deslizes) → deslize ocasionalmente
+  🔟 QUALIDADE: HNR 12.4 dB (voz EQUILIBRADA) → clareza natural
+  ➕ RESSONÂNCIA: MISTA (350 Hz) - transição entre registros
+
+
+[197.08s - 199.54s] time to choose
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 360.3 Hz (AGUDO) | Range: 325.8-551.2 Hz
+  2️⃣ VIBRATO: 3.2 Hz (LENTO), 146.3 cents (intenso)
+  3️⃣ FORMANTES: F1=582Hz (boca MÉDIA, abertura natural) | F2=1730Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.600) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (4107 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.084) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.974s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -15.8 dB (FORTE) | Range: 46.2 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 2 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 17.3 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (344 Hz) - transição entre registros
+
+
+[199.54s - 202.00s] what I chose
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 363.7 Hz (AGUDO) | Range: 335.4-445.1 Hz
+  2️⃣ VIBRATO: 3.4 Hz (LENTO), 76.9 cents (moderado)
+  3️⃣ FORMANTES: F1=463Hz (boca FECHADA, mandíbula relaxada) | F2=1620Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.227) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3639 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.068) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 0.859s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -13.7 dB (FORTE) | Range: 42.5 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 6 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 16.7 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (350 Hz) - transição entre registros
+
+
+[202.00s - 204.46s] to do So
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 425.9 Hz (MUITO AGUDO) | Range: 331.5-520.2 Hz
+  2️⃣ VIBRATO: 3.1 Hz (LENTO), 137.7 cents (intenso)
+  3️⃣ FORMANTES: F1=548Hz (boca MÉDIA, abertura natural) | F2=2002Hz (língua FRENTE, som brilhante)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.073) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (4078 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.083) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.149s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -11.3 dB (FORTE) | Range: 48.3 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 6 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 18.6 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (465 Hz) - transição entre registros
+
+
+[204.46s - 206.92s] go easy on me
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 373.4 Hz (AGUDO) | Range: 329.6-460.8 Hz
+  2️⃣ VIBRATO: 4.1 Hz (MÉDIO), 103.7 cents (intenso)
+  3️⃣ FORMANTES: F1=564Hz (boca MÉDIA, abertura natural) | F2=1815Hz (língua CENTRO, som equilibrado)
+  4️⃣ BREATHINESS: ALTO (ratio: 1.053) → deixe MUITO ar passar, cante sussurrado
+  5️⃣ BRILHO: BRILHANTE (3677 Hz) → som para FRENTE, máscara facial
+  6️⃣ TENSÃO: BAIXA (ratio: 0.109) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 1.103s (SUAVE/LENTO) → comece SUAVEMENTE, cresça aos poucos
+  8️⃣ DINÂMICA: -20.5 dB (MÉDIO) | Range: 54.5 dB (MUITA variação)
+  9️⃣ PORTAMENTOS: 8 detectados (MUITOS deslizes) → escorregue entre as notas (glissando)
+  🔟 QUALIDADE: HNR 16.7 dB (voz MUITO LIMPA) → som cristalino, pouco ruído
+  ➕ RESSONÂNCIA: MISTA (346 Hz) - transição entre registros
+
+
+[225.50s - 225.58s]  Thanks for watching!
+----------------------------------------------------------------------------------------------------
+  1️⃣ PITCH: 0.0 Hz (GRAVE) | Range: 0.0-0.0 Hz
+  2️⃣ VIBRATO: Ausente ou muito sutil
+  3️⃣ FORMANTES: F1=51Hz (boca FECHADA, mandíbula relaxada) | F2=2468Hz (língua FRENTE, som brilhante)
+  4️⃣ BREATHINESS: MEDIO (ratio: 0.107) → ar moderado, natural
+  5️⃣ BRILHO: ESCURO (872 Hz) → som para TRÁS, ressonância no peito
+  6️⃣ TENSÃO: BAIXA (ratio: 0.033) → garganta ABERTA, som relaxado
+  7️⃣ ATAQUE: 0.035s (DURO/RÁPIDO) → comece a nota COM FORÇA imediata
+  8️⃣ DINÂMICA: -0.8 dB (MUITO FORTE) | Range: 3.0 dB (volume constante)
+  9️⃣ PORTAMENTOS: 0 detectados (POUCOS/SEM deslizes) → pule DIRETO de nota para nota
+  🔟 QUALIDADE: HNR 0.0 dB (voz ROUCA/AÉREA) → mais ruído misturado
+  ➕ RESSONÂNCIA: NASAL (2700 Hz) - ressonância nasal
